@@ -19,9 +19,9 @@ I’m a **Computer Science and Engineering** student at **Birla Institute of Tec
 
 ## 💻 Skills
 - **Languages**: Java, JavaScript, Python, C, C++, C#, SQL, Bash, Solidity
-- **Web**: React.js, Node.js, Express.js, MongoDB, Next.js, HTML, CSS
+- **Web**: Next.js, React.js, Node.js, Express.js, MongoDB, Django
 - **Tools**: Git, Docker, Postman
-- **Blockchain**: Ethereum, Web3.js
+- **Blockchain**: Truffle, Ethereum Blockchain, Geth, Cryptocurrencies, Web3.js, Ether.js, Smart Contracts, IPFS
 
 ## 🌍 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/arkrajkundu/)
