@@ -1,6 +1,6 @@
-# Hello! 👋 I’m Arkraj Kundu
+# Hey!👋 I’m Arkraj Kundu
 
-I’m a **Computer Science Engineering student** at **BIT Mesra** (Graduating May 2026) with a passion for **Full Stack Web Development**, **Software Engineering**, and **Machine Learning**.
+I’m a **Computer Science and Engineering** student at **Birla Institute of Technology, Mesra** (Graduating May 2026) with a passion for **Full Stack Web Development**, **Software Engineering**, and **Machine Learning**.
 
 ## 🚀 Experience
 **Software Engineer Intern** at *Anonimo*  
